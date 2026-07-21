@@ -1,6 +1,6 @@
-<h3 align="center">Olá, eu sou Flávia Marcelino👋</h3>
+<h1 align="right">Olá, eu sou [Seu Nome] 👋</h1>
 
-<p align="center">
+<p align="right">
   <i>Estudante de Tecnologia em Jogos Digitais | Front-end & UI/UX</i>
 </p>
 
@@ -39,22 +39,20 @@ Sou estudante de **Tecnologia em Jogos Digitais** no **Instituto Federal da Bahi
 
 ### 💡 Especialidades
 
--  Desenvolvimento Front-end responsivo
--  Criação de interfaces (UI) e experiência do usuário (UX)
--  Design gráfico e identidade visual
--  Versionamento de código com Git e GitHub
--  Desenvolvimento de aplicações e projetos utilizando boas práticas de programação
+- 🎨 Desenvolvimento Front-end responsivo
+- 🖌️ Criação de interfaces (UI) e experiência do usuário (UX)
+- 🖼️ Design gráfico e identidade visual
+- 🔀 Versionamento de código com Git e GitHub
+- 🧩 Desenvolvimento de aplicações e projetos utilizando boas práticas de programação
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=mariasilva&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariasilva&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flavyy20&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flavyy20&theme=radical" width="48%" />
 </p>
-
-<!-- Troque "SEU_USUARIO" pelo seu username do GitHub nas duas linhas acima -->
 
 ---
 
@@ -74,7 +72,7 @@ Sou estudante de **Tecnologia em Jogos Digitais** no **Instituto Federal da Bahi
 
 ---
 
-<p align="center"><i>Sempre em busca de novos desafios, aprimorando minhas habilidades e desenvolvendo soluções que unem tecnologia, criatividade e design. 🚀</i></p>
+<p align="right"><i>Sempre em busca de novos desafios, aprimorando minhas habilidades e desenvolvendo soluções que unem tecnologia, criatividade e design. 🚀</i></p>
 
 
 
