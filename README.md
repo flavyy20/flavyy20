@@ -1,6 +1,6 @@
-<h1 align="right">Olá, eu sou [Seu Nome] 👋</h1>
+<h3 align="left">Oi! Eu sou a Flávia Marcelino</h3>
 
-<p align="right">
+<p align="left">
   <i>Estudante de Tecnologia em Jogos Digitais | Front-end & UI/UX</i>
 </p>
 
@@ -39,18 +39,18 @@ Sou estudante de **Tecnologia em Jogos Digitais** no **Instituto Federal da Bahi
 
 ### 💡 Especialidades
 
-- 🎨 Desenvolvimento Front-end responsivo
-- 🖌️ Criação de interfaces (UI) e experiência do usuário (UX)
-- 🖼️ Design gráfico e identidade visual
-- 🔀 Versionamento de código com Git e GitHub
-- 🧩 Desenvolvimento de aplicações e projetos utilizando boas práticas de programação
+- Desenvolvimento Front-end responsivo
+- Criação de interfaces (UI) e experiência do usuário (UX)
+- Design gráfico e identidade visual
+- Versionamento de código com Git e GitHub
+- Desenvolvimento de aplicações e projetos utilizando boas práticas de programação
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=flavyy20&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=flavyy20&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=flavyy20&theme=radical" width="48%" />
 </p>
 
@@ -59,13 +59,13 @@ Sou estudante de **Tecnologia em Jogos Digitais** no **Instituto Federal da Bahi
 ### 📫 Como me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/flávia-marcelino" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:otrabalho67@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/_yyflavy/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -73,7 +73,6 @@ Sou estudante de **Tecnologia em Jogos Digitais** no **Instituto Federal da Bahi
 ---
 
 <p align="right"><i>Sempre em busca de novos desafios, aprimorando minhas habilidades e desenvolvendo soluções que unem tecnologia, criatividade e design. 🚀</i></p>
-
 
 
   
