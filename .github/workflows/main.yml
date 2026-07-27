@@ -21,7 +21,7 @@ jobs:
               with:
                   github_user_name: ${{ github.repository_owner }}
                   # Lista de jogos separada por vírgula. Padrão: pacman
-                  games: 'pacman'
+                  games: 'pacman,breakout'
 
             # Envia os SVGs gerados para a branch "output"
             - name: push SVGs to the output branch
