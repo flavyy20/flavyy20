@@ -1,3 +1,4 @@
+
 <h3 align="left">Olá, eu sou Flávia Marcelino!</h3>
 
 <p align="left">
@@ -65,7 +66,7 @@ Sou estudante de **Tecnologia em Jogos Digitais** no **Instituto Federal da Bahi
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=flavyy20&show_icons=true&theme=midnight-purple" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=flavyy20&theme=midnight-purple" width="48%" />
+  <img src="./profile/streak.svg" width="48%" />
 </p>
 
 ---
@@ -93,3 +94,4 @@ Sou estudante de **Tecnologia em Jogos Digitais** no **Instituto Federal da Bahi
 <p align="right">
   <sub>© 2026 Flávia Marcelino. Todos os direitos reservados.</sub>
 </p>
+
