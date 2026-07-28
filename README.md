@@ -1,4 +1,4 @@
-<h3 align="left">Olá, eu sou Flávia Marcelino! </h3>
+<h3 align="left">Olá, eu sou Flávia Marcelino!</h3>
 
 <p align="left">
   <i>Estudante de Tecnologia em Jogos Digitais | Front-end & UI/UX</i>
@@ -6,13 +6,13 @@
 
 ---
 
-### 👩‍💻 Sobre mim
+### <img src="assets/diamond.svg" width="14" valign="middle"/> Sobre mim
 
 Sou estudante de **Tecnologia em Jogos Digitais** no **Instituto Federal da Bahia (IFBA)** e apaixonada por tecnologia, desenvolvimento de software e design digital. Tenho experiência no desenvolvimento de aplicações web e na criação de interfaces modernas, funcionais e centradas na experiência do usuário.
 
 ---
 
-### 🚀 Tecnologias
+### <img src="assets/diamond.svg" width="14" valign="middle"/> Tecnologias
 
 **Linguagens:**
 
@@ -37,7 +37,7 @@ Sou estudante de **Tecnologia em Jogos Digitais** no **Instituto Federal da Bahi
 
 ---
 
-### 💡 Especialidades
+### <img src="assets/diamond.svg" width="14" valign="middle"/> Especialidades
 
 - Desenvolvimento Front-end responsivo
 - Criação de interfaces (UI) e experiência do usuário (UX)
@@ -47,7 +47,7 @@ Sou estudante de **Tecnologia em Jogos Digitais** no **Instituto Federal da Bahi
 
 ---
 
-### 🕹️ Contribuições em modo Arcade
+### <img src="assets/diamond.svg" width="14" valign="middle"/> Contribuições em modo Arcade
 
 <p align="left">
   <picture>
@@ -61,8 +61,7 @@ Sou estudante de **Tecnologia em Jogos Digitais** no **Instituto Federal da Bahi
 
 ---
 
-
-### 📊 Estatísticas do GitHub
+### <img src="assets/diamond.svg" width="14" valign="middle"/> Estatísticas do GitHub
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=flavyy20&show_icons=true&theme=midnight-purple" width="48%" />
@@ -71,7 +70,7 @@ Sou estudante de **Tecnologia em Jogos Digitais** no **Instituto Federal da Bahi
 
 ---
 
-### 📫 Como me encontrar
+### <img src="assets/diamond.svg" width="14" valign="middle"/> Como me encontrar
 
 <p align="left">
   <a href="https://www.linkedin.com/in/flávia-marcelino" target="_blank">
@@ -87,12 +86,10 @@ Sou estudante de **Tecnologia em Jogos Digitais** no **Instituto Federal da Bahi
 
 ---
 
-<p align="right"><i>Sempre em busca de novos desafios, aprimorando minhas habilidades e desenvolvendo soluções que unem tecnologia, criatividade e design. 🚀</i></p>
+<p align="right"><i>Sempre em busca de novos desafios, aprimorando minhas habilidades e desenvolvendo soluções que unem tecnologia, criatividade e design.</i></p>
 
 ---
 
 <p align="right">
   <sub>© 2026 Flávia Marcelino. Todos os direitos reservados.</sub>
 </p>
-
-
